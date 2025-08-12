@@ -62,9 +62,9 @@
 
 ## 🖼️ Screenshots
 
-![screenshot1](screenshot1.jpg)
-![screenshot2](screenshot2.jpg)
-![screenshot3](screenshot3.jpg)
-![screenshot4](screenshot4.jpg)
-![screenshot5](screenshot5.jpg)
-![screenshot6](screenshot6.jpg)
+![screenshot1](screenshots/screenshot1.jpg)
+![screenshot2](screenshots/screenshot2.jpg)
+![screenshot3](screenshots/screenshot3.jpg)
+![screenshot4](screenshots/screenshot4.jpg)
+![screenshot5](screenshots/screenshot5.jpg)
+![screenshot6](screenshots/screenshot6.jpg)

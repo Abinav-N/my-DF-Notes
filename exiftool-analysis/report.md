@@ -28,8 +28,8 @@
 This file shows evidence of editing in both GIMP and Adobe Premiere Pro, suggesting it is *not the original camera output*.
 
 ## 🖼 Screenshots
-![alt text](image1.jpg)
-![alt text](image2.jpg)
-![alt text](image3.jpg)
-![alt text](image4.jpg)
-![alt text](image5.jpg)
+![alt text](screenshots/image1.jpg)
+![alt text](screenshots/image2.jpg)
+![alt text](screenshots/image3.jpg)
+![alt text](screenshots/image4.jpg)
+![alt text](screenshots/image5.jpg)

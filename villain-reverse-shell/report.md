@@ -19,8 +19,8 @@
 
 ## 🔎 Enumeration Performed
 
-![img1](img1.jpg)
-![img2](img2.jpg)
-![img3](img3.jpg)
-![img4](img4.jpg)
-![img5](img5.jpg)
+![img1](screenshots/img1.jpg)
+![img2](screenshots/img2.jpg)
+![img3](screenshots/img3.jpg)
+![img4](screenshots/img4.jpg)
+![img5](screenshots/img5.jpg)
